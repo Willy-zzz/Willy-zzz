@@ -18,12 +18,14 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG (dark theme)
         uses: Platane/snk@v3
         with:
           github_user_name: Willy-zzz
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: '#00FF00'
+          color_dots: '#2ea043, #3fb950, #56d364, #6fdd8a, #9be9a8'
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -34,4 +36,4 @@ jobs:
           force_orphan: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'feat: update snake animation'
+          commit_message: 'feat: update snake animation (dark colors)'
