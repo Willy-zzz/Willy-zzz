@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/Focus-Networking%20%26%20Security-red" />
 </p>
 
+> access granted...
+> initializing modules...
+> loading skills ██████████ 100%
+
+Welcome back, Willys 😎
+
 ---
 
 ## 🧠 whoami
