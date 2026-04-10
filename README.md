@@ -48,7 +48,7 @@ México 🇲🇽
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-zzz&theme=tokyo-night" /> </p>
 
 ## 🐍 Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Willy-zzz/Willy-zzz/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://github.com/Willy-zzz/Willy-zzz/blob/output/github-snake-dark.svg" /> </p>
 
 ## 🎯 Current Goals
 ```bash
