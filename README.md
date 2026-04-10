@@ -42,7 +42,7 @@ México 🇲🇽
 <p> <img src="https://img.shields.io/badge/Pentesting-Learning-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Nmap-Scanning-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Security-Hardening-yellow?style=for-the-badge" /> </p>
 
 ##  📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Willy-zzz&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willy-zzz&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats-hazel-two-75.vercel.app/api?username=Willy-zzz&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willy-zzz&theme=tokyonight" /> </p>
 
 ## ⚡ Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-zzz&theme=tokyo-night" /> </p>
