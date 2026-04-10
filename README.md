@@ -1,61 +1,79 @@
-# 👋 Hola, soy Willys Arias
+<h1 align="center">👋 Hola, soy Willys Arias</h1>
+<h3 align="center">💻 Dev Web | 🌐 Redes | 🔐 Ciberseguridad</h3>
+
+<p align="center">
+  <a href="https://github.com/Willy-zzz">
+    <img src="https://img.shields.io/github/followers/Willy-zzz?label=Followers&style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Willy-zzz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 Sobre mí
 
 💻 Apasionado por la tecnología, redes y ciberseguridad  
-🌐 Estudiante / Desarrollador enfocado en soluciones web y administración de redes  
-🚀 Siempre aprendiendo y construyendo cosas nuevas  
+⚙️ Desarrollo soluciones web modernas y funcionales  
+🔐 Interesado en hacking ético y seguridad informática  
+🌐 Experiencia en configuración de redes y equipos empresariales  
 
 ---
 
-## 🧠 Sobre mí
-
-- 🔧 Trabajo con redes (configuración, troubleshooting, seguridad)
-- 🖥️ Desarrollo web con PHP, Laravel, Vue, Vite
-- 🔐 Interesado en ciberseguridad y pentesting
-- ⚙️ Me gusta automatizar procesos y aprender herramientas nuevas
-
----
-
-## 🚀 Tecnologías y herramientas
+## 🧠 Tecnologías
 
 ### 💻 Desarrollo
-- PHP / Laravel  
-- JavaScript / Vue / Vite  
-- MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,vite,mysql,html,css" />
+</p>
 
 ### 🌐 Redes
-- Configuración de switches (Aruba, Cisco)
-- VLANs, Routing, NAT
-- VPNs (WireGuard, OpenVPN)
+<p>
+  <img src="https://img.shields.io/badge/Aruba-Networks-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-Networks-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLANs-Routing-informational?style=for-the-badge" />
+</p>
 
 ### 🔐 Seguridad
-- Escaneo de red  
-- Hardening básico  
-- Buenas prácticas de seguridad  
+<p>
+  <img src="https://img.shields.io/badge/Pentesting-Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Scanning-Nmap-green?style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos
 
-- 🛠️ Sistema web completo (Laravel + Vue)
-- 🌐 Implementación de red con switches Aruba
-- 🔐 Configuración de VPN para acceso remoto
+- 🛠️ Sistema Web completo (Laravel + Vue + Vite)  
+- 🌐 Infraestructura de red con switches Aruba  
+- 🔐 Implementación de VPN (WireGuard / OpenVPN)  
 
 ---
 
-## 📊 Stats
+## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Willy-zzz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willy-zzz&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-zzz&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@example.com
-- 💼 LinkedIn: (opcional)
-- 🌍 Ubicación: México
+- 📧 Email: tuemail@example.com  
+- 🌍 México  
 
 ---
 
-## ⚡ Frase
+## 🧠 Frase
 
-> "La tecnología bien usada es poder."
+```bash
+"La tecnología no es el futuro... es el presente que pocos dominan."
