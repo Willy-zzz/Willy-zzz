@@ -61,8 +61,12 @@ México 🇲🇽
 🚀 Aprender más sobre automatización y DevOps
 ```
 
-## 📫 Contact
-<p> 📧 ariasperezwillys7@gmail.com <br> 👤 @willysalexanderariasperez <br> 💻 @willys_zzz <br> 🔗 https://www.linkedin.com/in/willysariasdev </p>
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/557027356502655026) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/willysalexanderdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/willys_zzz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willysariasdev/) 
+
+</div>
 
 ## 🧠 Philosophy
 ```bash
